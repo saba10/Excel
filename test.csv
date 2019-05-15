@@ -1,0 +1,14 @@
+Long term trend report for BIS_JBOSS_WS_Prod,,,,,,,,,,,,
+Day ending,May. 2nd 2019 (Thu),May. 3rd 2019 (Fri),May. 4th 2019 (Sat),May. 5th 2019 (Sun),May. 6th 2019 (Mon),May. 7th 2019 (Tue),May. 8th 2019 (Wed),May. 9th 2019 (Thu),May. 10th 2019 (Fri),May. 11th 2019 (Sat),May. 12th 2019 (Sun),May. 13th 2019 (Mon)
+End user page views,-,-,-,-,-,-,-,-,-,-,-,-
+End user load time sec,-,-,-,-,-,-,-,-,-,-,-,-
+End user apdex,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+End user % satisfied,0,0,0,0,0,0,0,0,0,0,0,0
+End user % tolerating,0,0,0,0,0,0,0,0,0,0,0,0
+End user % frustrated,0,0,0,0,0,0,0,0,0,0,0,0
+App server requests  (millions),13.5,14.1,10.8,8.57,13.8,13.3,13.3,13,14,10.3,7.68,4.23
+App server response time ms,174,181,151,145,179,165,209,211,198,170,151,118
+App server apdex,0.95,0.95,0.95,0.95,0.95,0.95,0.94,0.94,0.95,0.95,0.95,0.96
+App server % satisfied,90.1,89.8,90.1,90.4,90,90,89.6,89.7,90.2,90.6,90.8,91
+App server % tolerating,9.3,9.6,9.6,9.3,9.5,9.6,9.5,9.3,9.1,8.8,8.7,7.9
+App server % frustrated,0.5,0.6,0.4,0.4,0.6,0.4,0.9,1,0.8,0.6,0.4,0
